@@ -1,0 +1,21 @@
+.contenedor{
+display: flex;
+justify-content: space-evenly;
+;
+
+}
+p{
+  margin-right: 2rem;
+}
+.contenedorima{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.menos{
+  background-color:#00abcd;
+
+}
+.mas{
+  background-color: #000bcd;
+}
